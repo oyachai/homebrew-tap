@@ -3,7 +3,7 @@ require 'formula'
 class Xpra < Formula
   homepage 'http://xpra.org'
   url 'http://winswitch.org/src/xpra-0.13.8.tar.bz2'
-  sha1 '1fe8113242143d51f492502e1d0c7441c34cbf23'
+  sha1 '2e8b462e27339d48a0206c5e6c758860c34b48d7'
   head 'http://xpra.org/svn/Xpra/trunk/src/', :using => :svn
 
   # We want pkg-config
